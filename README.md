@@ -1,0 +1,1 @@
+This is a personal website for me, Christopher Chen. It is a practice project for the coding bootcamp Rithm School. I hope to continue to work on, improve, and update this site over the next few months so this may serve as a instructive exercise for myself and a helpful resource for future job searches.
