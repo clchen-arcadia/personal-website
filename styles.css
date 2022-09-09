@@ -3,10 +3,14 @@
     background-color: #3feee6;
 }
 
+div.about-page{
+    text-align: center;
+}
+
 p {
-    max-width: 1000px;
-    text-align: left;
-    justify-content: center;
+    max-width: 800px;
+    text-align: justify;
+    display: inline-block;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -33,15 +37,15 @@ h1, h2{
 }
 
 img {
-    max-width: 100%;
+    max-width: 75%;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-img.vertical, img.horizontal{
-    max-width: 800px;
+img.horizontal{
+    max-width: 90%;
 }
 
 ul.nav-bar {
@@ -51,7 +55,7 @@ ul.nav-bar {
 }
 
 li.nav-bar {
-    float: left;
+    float: right;
 }
 
 a.nav-bar {
@@ -73,4 +77,9 @@ ul.dashed > li {
 ul.dashed > li:before {
     content: "— ";
     text-indent: -5px;
+}
+
+#resume{
+    display: block;
+    text-align: center;
 }
